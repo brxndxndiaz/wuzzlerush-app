@@ -1,6 +1,6 @@
 # WuzzleRush
 
-WuzzleRush is a fast-paced, multiplayer word puzzle game built with [Expo](https://expo.dev), [React Native](https://reactnative.dev/), and [InstantDB](https://instantdb.com/). Challenge your friends in real-time lobbies, solve word puzzles, and climb the leaderboard!
+[WuzzleRush](https://wuzzlerush.brndndiaz.dev) is a fast-paced, multiplayer word puzzle game built with [Expo](https://expo.dev), [React Native](https://reactnative.dev/), and [InstantDB](https://instantdb.com/). Challenge your friends in real-time lobbies, solve word puzzles, and climb the leaderboard!
 
 ## Features
 
